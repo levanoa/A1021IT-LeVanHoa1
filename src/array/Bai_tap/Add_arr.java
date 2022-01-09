@@ -34,7 +34,7 @@ public class Add_arr {
                     arr[i] = arr[i-1];
                 }
                 arr[y] = x;
-                System.out.println("\n");
+//                System.out.println("\n");
                 System.out.println("MẢNG SAU KHI CHÈN");
                 for (int j =0; j  <arr.length;j++) {
                     System.out.print(arr[j] + " ");
